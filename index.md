@@ -1,4 +1,4 @@
-Blog about me, Ryan Lin
+#Blog about me, Ryan Lin
 
 Brag Sheet:
 Science Olympiad Testing Coordinator
