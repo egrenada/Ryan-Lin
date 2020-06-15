@@ -1,3 +1,6 @@
-# Welcome to my blog
+Blog about me, Ryan Lin
 
-I'm glad you are here. I plan to talk about ...
+Brag Sheet:
+Science Olympiad Testing Coordinator
+Science Honors Society EIC
+Played on EBHS VB team
