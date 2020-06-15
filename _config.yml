@@ -1,7 +1,8 @@
-title: Personal Blog
+---
+title: "Personal Blog"
 theme: minima
-author: Ryan Lin
-email: rlin@ebnet.org
+author: "Ryan Lin"
+email: "rlin@ebnet.org"
 description: > # this means to ignore newlines until "baseurl:"
  Played EBHS VB, volunteer at library, professional valorant player
 # social links
@@ -9,3 +10,4 @@ twitter_username: @RealRlin # DO NOT include the @ character, or else the build 
 github_username:  egrenada # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
